@@ -35,7 +35,7 @@ const Navbar = () => {
       >
         <div className="container mx-auto flex items-center justify-between py-5 px-6 lg:px-8">
           <a href="#home" className="font-heading text-2xl font-light tracking-[0.3em] text-foreground uppercase">
-            Arqstudio
+            Douglas
           </a>
 
           <div className="hidden lg:flex items-center gap-10">
