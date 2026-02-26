@@ -32,7 +32,7 @@ const HeroSection = () => {
           transition={{ duration: 1, delay: 0.3 }}
           className="font-body text-xs tracking-[0.4em] uppercase text-primary-foreground/70 mb-6"
         >
-          Arquitetura &middot; Design &middot; Exclusividade
+          Casas de Luxo &middot; Arquitetura &middot; Exclusividade
         </motion.p>
         <motion.h1
           initial={{ opacity: 0, y: 40 }}
@@ -40,9 +40,9 @@ const HeroSection = () => {
           transition={{ duration: 1, delay: 0.5 }}
           className="font-heading text-5xl md:text-7xl lg:text-8xl font-light text-primary-foreground leading-[0.95] max-w-5xl"
         >
-          Onde a forma
+          Residências que
           <br />
-          <em className="italic font-light">encontra a essência</em>
+          <em className="italic font-light">definem o luxo</em>
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 30 }}
@@ -50,7 +50,7 @@ const HeroSection = () => {
           transition={{ duration: 1, delay: 0.8 }}
           className="font-body text-sm md:text-base text-primary-foreground/60 mt-8 max-w-lg tracking-wide"
         >
-          Projetos arquitetônicos que transcendem o convencional e definem novos padrões de excelência.
+          Projetos residenciais de alto padrão que transformam o conceito de morar em uma experiência extraordinária.
         </motion.p>
         <motion.a
           href="#projetos"

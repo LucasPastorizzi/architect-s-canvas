@@ -6,10 +6,10 @@ const Footer = () => (
       <div className="grid md:grid-cols-3 gap-12 items-start">
         <div>
           <p className="font-heading text-xl tracking-[0.3em] uppercase text-foreground mb-4">
-            Arqstudio
+            Douglas
           </p>
           <p className="font-body text-xs text-muted-foreground leading-relaxed">
-            Arquitetura de excelência<br />São Paulo, Brasil
+            Casas de Luxo &middot; Arquitetura<br />São Paulo, Brasil
           </p>
         </div>
 
@@ -45,7 +45,7 @@ const Footer = () => (
 
       <div className="mt-16 pt-8 border-t border-border text-center">
         <p className="font-body text-xs text-muted-foreground">
-          © 2026 Arqstudio. Todos os direitos reservados.
+          © 2026 Douglas Arquitetura. Todos os direitos reservados.
         </p>
       </div>
     </div>

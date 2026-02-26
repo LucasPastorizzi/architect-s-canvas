@@ -21,8 +21,8 @@ const DifferentialSection = () => {
           transition={{ duration: 1, delay: 0.2 }}
           className="font-heading text-4xl md:text-6xl lg:text-7xl font-light text-primary-foreground leading-[1.1]"
         >
-          Acreditamos que a arquitetura não é apenas sobre construir espaços — é sobre criar{" "}
-          <em className="italic">experiências que transformam vidas.</em>
+          Uma casa de luxo não é apenas um endereço — é a expressão máxima de{" "}
+          <em className="italic">quem você é.</em>
         </motion.h2>
       </div>
     </section>

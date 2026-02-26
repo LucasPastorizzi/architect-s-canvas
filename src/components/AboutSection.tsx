@@ -65,18 +65,19 @@ const AboutSection = () => {
               Sobre o Arquiteto
             </p>
             <h2 className="font-heading text-4xl md:text-5xl lg:text-6xl font-light text-foreground leading-[1.1] mb-8">
-              Criando espaços que <em className="italic">inspiram</em>
+              Douglas <em className="italic">Arquitetura</em>
             </h2>
             <div className="space-y-5 text-muted-foreground font-body text-sm leading-relaxed">
               <p>
-                Com mais de 15 anos de experiência, nosso estúdio se dedica a criar 
-                espaços que dialogam com a paisagem urbana e natural, respeitando a 
-                identidade de cada cliente e a essência de cada lugar.
+                Especializado em casas de luxo, Douglas combina visão artística com 
+                excelência técnica para criar residências que são verdadeiras obras de 
+                arte. Cada projeto é uma expressão única do estilo de vida e 
+                personalidade de seus moradores.
               </p>
               <p>
-                Nossa abordagem combina rigor técnico com sensibilidade artística, 
-                resultando em projetos que são simultaneamente funcionais e 
-                esteticamente extraordinários.
+                Com mais de 15 anos dedicados exclusivamente ao segmento residencial 
+                de alto padrão, sua assinatura é reconhecida pela atenção obsessiva 
+                aos detalhes e pelo uso magistral da luz e dos materiais nobres.
               </p>
             </div>
 

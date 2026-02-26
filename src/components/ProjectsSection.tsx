@@ -22,12 +22,12 @@ interface Project {
 }
 
 const projects: Project[] = [
-  { id: 1, title: "Residência Monteiro", category: "Residencial", image: project1, year: "2024", description: "Residência contemporânea com 450m² que integra ambientes internos e externos em harmonia com a paisagem.", span: "md:col-span-2 md:row-span-2" },
-  { id: 2, title: "Centro Empresarial Nova", category: "Comercial", image: project2, year: "2023", description: "Complexo comercial com foco em sustentabilidade e eficiência energética.", span: "md:col-span-1 md:row-span-1" },
-  { id: 3, title: "Loft Paulista", category: "Interiores", image: project3, year: "2024", description: "Design de interiores para loft de 200m² com estilo contemporâneo minimalista.", span: "md:col-span-1 md:row-span-1" },
-  { id: 4, title: "Museu da Forma", category: "Comercial", image: project4, year: "2022", description: "Espaço cultural de 3.000m² com geometria angular e iluminação natural dramática.", span: "md:col-span-1 md:row-span-1" },
-  { id: 5, title: "Penthouse Jardins", category: "Interiores", image: project5, year: "2023", description: "Cobertura de luxo com vista panorâmica e acabamentos premium.", span: "md:col-span-1 md:row-span-1" },
-  { id: 6, title: "Capela da Luz", category: "Comercial", image: project6, year: "2021", description: "Espaço espiritual com concreto aparente e luz natural como protagonista.", span: "md:col-span-2 md:row-span-1" },
+  { id: 1, title: "Casa Monteiro", category: "Residencial", image: project1, year: "2024", description: "Residência de luxo com 650m², piscina infinita e integração total com o jardim tropical. Projeto que redefine o conceito de morar bem.", span: "md:col-span-2 md:row-span-2" },
+  { id: 2, title: "Villa Serena", category: "Residencial", image: project2, year: "2023", description: "Mansão contemporânea de 800m² com pé-direito duplo e acabamentos importados.", span: "md:col-span-1 md:row-span-1" },
+  { id: 3, title: "Casa dos Espelhos", category: "Interiores", image: project3, year: "2024", description: "Interior de residência de alto padrão com concreto aparente, vidro e mobiliário sob medida.", span: "md:col-span-1 md:row-span-1" },
+  { id: 4, title: "Residência Alto da Serra", category: "Residencial", image: project4, year: "2022", description: "Casa de 1.200m² no topo de uma colina com vista de 360° e geometria angular marcante.", span: "md:col-span-1 md:row-span-1" },
+  { id: 5, title: "Penthouse Jardins", category: "Interiores", image: project5, year: "2023", description: "Cobertura duplex de 400m² com vista panorâmica para a cidade e acabamentos premium.", span: "md:col-span-1 md:row-span-1" },
+  { id: 6, title: "Casa da Luz", category: "Residencial", image: project6, year: "2021", description: "Residência minimalista que usa a luz natural como elemento arquitetônico central.", span: "md:col-span-2 md:row-span-1" },
 ];
 
 const categories: Category[] = ["Todos", "Residencial", "Comercial", "Interiores"];
