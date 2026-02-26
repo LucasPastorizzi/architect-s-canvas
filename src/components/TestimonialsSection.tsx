@@ -6,12 +6,12 @@ const testimonials = [
   {
     text: "Douglas entendeu exatamente o que queríamos: uma casa que fosse nossa cara, sem excessos, mas com aquele toque de sofisticação que só ele consegue.",
     author: "Marina Albuquerque",
-    role: "Casa Monteiro, São Paulo",
+    role: "Casa Monteiro, Novo Hamburgo",
   },
   {
     text: "Morar numa casa projetada pelo Douglas é diferente. Cada cômodo tem uma intenção, cada detalhe conta. Foi a melhor decisão que tomamos.",
     author: "Ricardo & Ana Mendes",
-    role: "Villa Serena, Alphaville",
+    role: "Villa Serena, Porto Alegre",
   },
   {
     text: "Ele não projeta casas, ele projeta experiências. A forma como a luz entra, o silêncio dos materiais — tudo é pensado com uma sensibilidade rara.",

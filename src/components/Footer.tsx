@@ -9,7 +9,7 @@ const Footer = () => (
             Douglas
           </p>
           <p className="font-body text-xs text-muted-foreground leading-relaxed">
-            Casas de Luxo &middot; Arquitetura<br />São Paulo, Brasil
+            Casas de Luxo &middot; Arquitetura<br />Ivoti, Brasil
           </p>
         </div>
 
